@@ -1,6 +1,6 @@
-### Coursera Course powered by Meta for Backend Developer Specialization
+# Coursera Course powered by Meta for Backend Developer Specialization
 
-# This is the final assignment for the Coursera Course powered by Meta for Backend Developer Specialization! This is the Capstone course final project
+### This is the final assignment for the Coursera Course powered by Meta for Backend Developer Specialization! This is the Capstone course final project
 
 # Information
 I didn't connect to mysql because this becomes really messy! Instead I am just using dbSQLite3.
