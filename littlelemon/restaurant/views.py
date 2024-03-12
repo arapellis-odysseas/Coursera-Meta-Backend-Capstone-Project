@@ -29,7 +29,7 @@ class BookingViewSet(viewsets.ModelViewSet):
 class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all()
     serializer_class = UserSerializer
-    permission_classes = [IsAuthenticated]
+    #permission_classes = [IsAuthenticated]
 
 class UserCreateView(generics.CreateAPIView):
     queryset = User.objects.all()
